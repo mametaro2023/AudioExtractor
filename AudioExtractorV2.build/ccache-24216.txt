@@ -1,0 +1,391 @@
+[2023-05-20T02:19:40.470304 3336 ] === CCACHE 4.6 STARTED =========================================
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) absolute_paths_in_stderr = false
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) base_dir = 
+[2023-05-20T02:19:40.470304 3336 ] Config: (environment) cache_dir = C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) compiler = 
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) compiler_check = mtime
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) compiler_type = auto
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) compression = true
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) compression_level = 0
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) cpp_extension = 
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) debug = false
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) debug_dir = 
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) depend_mode = false
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) direct_mode = true
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) disable = false
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) extra_files_to_hash = 
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) file_clone = false
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) hard_link = false
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) hash_dir = true
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) ignore_headers_in_manifest = 
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) ignore_options = 
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) inode_cache = false
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) keep_comments_cpp = false
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) limit_multiple = 0.8
+[2023-05-20T02:19:40.470304 3336 ] Config: (environment) log_file = D:\ìåçHëÂ\python\AudioExtractorBuild\AudioExtractorV2.build\ccache-24216.txt
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) max_files = 0
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) max_size = 5.0G
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) namespace = 
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) path = 
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) pch_external_checksum = false
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) prefix_command = 
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) prefix_command_cpp = 
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) read_only = false
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) read_only_direct = false
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) recache = false
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) reshare = false
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) run_second_cpp = true
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) secondary_storage = 
+[2023-05-20T02:19:40.470304 3336 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) stats = true
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) stats_log = 
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) temporary_dir = C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-05-20T02:19:40.470304 3336 ] Config: (default) umask = 
+[2023-05-20T02:19:40.471305 3336 ] Command line: C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o __constants.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IE:\Python\include -I. -IE:\Python\lib\site-packages\nuitka\build\include -IE:\Python\lib\site-packages\nuitka\build\static_src __constants.c
+[2023-05-20T02:19:40.479312 30276] === CCACHE 4.6 STARTED =========================================
+[2023-05-20T02:19:40.479312 3336 ] Hostname: DESKTOP-G6UHQ2L
+[2023-05-20T02:19:40.479312 3336 ] Working directory: D:/ìåçHëÂ/python/AudioExtractorBuild/AudioExtractorV2.build
+[2023-05-20T02:19:40.479312 30276] Config: (default) absolute_paths_in_stderr = false
+[2023-05-20T02:19:40.479312 30276] Config: (default) base_dir = 
+[2023-05-20T02:19:40.479312 30276] Config: (environment) cache_dir = C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-05-20T02:19:40.479312 30276] Config: (default) compiler = 
+[2023-05-20T02:19:40.479312 30276] Config: (default) compiler_check = mtime
+[2023-05-20T02:19:40.479312 30276] Config: (default) compiler_type = auto
+[2023-05-20T02:19:40.479312 30276] Config: (default) compression = true
+[2023-05-20T02:19:40.479312 30276] Config: (default) compression_level = 0
+[2023-05-20T02:19:40.479312 30276] Config: (default) cpp_extension = 
+[2023-05-20T02:19:40.479312 30276] Config: (default) debug = false
+[2023-05-20T02:19:40.479312 30276] Config: (default) debug_dir = 
+[2023-05-20T02:19:40.479312 30276] Config: (default) depend_mode = false
+[2023-05-20T02:19:40.479312 30276] Config: (default) direct_mode = true
+[2023-05-20T02:19:40.479312 30276] Config: (default) disable = false
+[2023-05-20T02:19:40.479312 30276] Config: (default) extra_files_to_hash = 
+[2023-05-20T02:19:40.479312 30276] Config: (default) file_clone = false
+[2023-05-20T02:19:40.479312 30276] Config: (default) hard_link = false
+[2023-05-20T02:19:40.479312 30276] Config: (default) hash_dir = true
+[2023-05-20T02:19:40.479312 30276] Config: (default) ignore_headers_in_manifest = 
+[2023-05-20T02:19:40.479312 30276] Config: (default) ignore_options = 
+[2023-05-20T02:19:40.479312 30276] Config: (default) inode_cache = false
+[2023-05-20T02:19:40.479312 30276] Config: (default) keep_comments_cpp = false
+[2023-05-20T02:19:40.479312 30276] Config: (default) limit_multiple = 0.8
+[2023-05-20T02:19:40.479312 30276] Config: (environment) log_file = D:\ìåçHëÂ\python\AudioExtractorBuild\AudioExtractorV2.build\ccache-24216.txt
+[2023-05-20T02:19:40.479312 30276] Config: (default) max_files = 0
+[2023-05-20T02:19:40.479312 30276] Config: (default) max_size = 5.0G
+[2023-05-20T02:19:40.479312 30276] Config: (default) namespace = 
+[2023-05-20T02:19:40.479312 30276] Config: (default) path = 
+[2023-05-20T02:19:40.479312 30276] Config: (default) pch_external_checksum = false
+[2023-05-20T02:19:40.479312 30276] Config: (default) prefix_command = 
+[2023-05-20T02:19:40.479312 30276] Config: (default) prefix_command_cpp = 
+[2023-05-20T02:19:40.479312 30276] Config: (default) read_only = false
+[2023-05-20T02:19:40.479312 30276] Config: (default) read_only_direct = false
+[2023-05-20T02:19:40.479312 30276] Config: (default) recache = false
+[2023-05-20T02:19:40.479312 30276] Config: (default) reshare = false
+[2023-05-20T02:19:40.479312 30276] Config: (default) run_second_cpp = true
+[2023-05-20T02:19:40.479312 30276] Config: (default) secondary_storage = 
+[2023-05-20T02:19:40.479312 30276] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-05-20T02:19:40.479312 30276] Config: (default) stats = true
+[2023-05-20T02:19:40.479312 30276] Config: (default) stats_log = 
+[2023-05-20T02:19:40.479312 30276] Config: (default) temporary_dir = C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-05-20T02:19:40.479312 30276] Config: (default) umask = 
+[2023-05-20T02:19:40.479312 30276] Command line: C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o __loader.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IE:\Python\include -I. -IE:\Python\lib\site-packages\nuitka\build\include -IE:\Python\lib\site-packages\nuitka\build\static_src __loader.c
+[2023-05-20T02:19:40.480313 3336 ] Source file: __constants.c
+[2023-05-20T02:19:40.480313 3336 ] Object file: __constants.o
+[2023-05-20T02:19:40.480313 3336 ] Trying direct lookup
+[2023-05-20T02:19:40.480313 3336 ] Retrieved ab87jqeki1i9o5ld7icvlglusa1hj6ot4 from primary storage (C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/b/87jqeki1i9o5ld7icvlglusa1hj6ot4M)
+[2023-05-20T02:19:40.481314 3336 ] Looking for result key in C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/b/87jqeki1i9o5ld7icvlglusa1hj6ot4M
+[2023-05-20T02:19:40.484317 15840] === CCACHE 4.6 STARTED =========================================
+[2023-05-20T02:19:40.484317 15840] Config: (default) absolute_paths_in_stderr = false
+[2023-05-20T02:19:40.484317 15840] Config: (default) base_dir = 
+[2023-05-20T02:19:40.484317 15840] Config: (environment) cache_dir = C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-05-20T02:19:40.484317 15840] Config: (default) compiler = 
+[2023-05-20T02:19:40.484317 15840] Config: (default) compiler_check = mtime
+[2023-05-20T02:19:40.484317 15840] Config: (default) compiler_type = auto
+[2023-05-20T02:19:40.484317 15840] Config: (default) compression = true
+[2023-05-20T02:19:40.484317 15840] Config: (default) compression_level = 0
+[2023-05-20T02:19:40.484317 15840] Config: (default) cpp_extension = 
+[2023-05-20T02:19:40.484317 15840] Config: (default) debug = false
+[2023-05-20T02:19:40.484317 15840] Config: (default) debug_dir = 
+[2023-05-20T02:19:40.484317 15840] Config: (default) depend_mode = false
+[2023-05-20T02:19:40.484317 15840] Config: (default) direct_mode = true
+[2023-05-20T02:19:40.484317 15840] Config: (default) disable = false
+[2023-05-20T02:19:40.484317 15840] Config: (default) extra_files_to_hash = 
+[2023-05-20T02:19:40.484317 15840] Config: (default) file_clone = false
+[2023-05-20T02:19:40.484317 15840] Config: (default) hard_link = false
+[2023-05-20T02:19:40.484317 15840] Config: (default) hash_dir = true
+[2023-05-20T02:19:40.484317 15840] Config: (default) ignore_headers_in_manifest = 
+[2023-05-20T02:19:40.484317 15840] Config: (default) ignore_options = 
+[2023-05-20T02:19:40.484317 15840] Config: (default) inode_cache = false
+[2023-05-20T02:19:40.484317 15840] Config: (default) keep_comments_cpp = false
+[2023-05-20T02:19:40.484317 15840] Config: (default) limit_multiple = 0.8
+[2023-05-20T02:19:40.484317 15840] Config: (environment) log_file = D:\ìåçHëÂ\python\AudioExtractorBuild\AudioExtractorV2.build\ccache-24216.txt
+[2023-05-20T02:19:40.484317 15840] Config: (default) max_files = 0
+[2023-05-20T02:19:40.484317 15840] Config: (default) max_size = 5.0G
+[2023-05-20T02:19:40.484317 15840] Config: (default) namespace = 
+[2023-05-20T02:19:40.484317 15840] Config: (default) path = 
+[2023-05-20T02:19:40.484317 15840] Config: (default) pch_external_checksum = false
+[2023-05-20T02:19:40.484317 15840] Config: (default) prefix_command = 
+[2023-05-20T02:19:40.484317 15840] Config: (default) prefix_command_cpp = 
+[2023-05-20T02:19:40.484317 15840] Config: (default) read_only = false
+[2023-05-20T02:19:40.484317 15840] Config: (default) read_only_direct = false
+[2023-05-20T02:19:40.484317 15840] Config: (default) recache = false
+[2023-05-20T02:19:40.484317 15840] Config: (default) reshare = false
+[2023-05-20T02:19:40.484317 15840] Config: (default) run_second_cpp = true
+[2023-05-20T02:19:40.484317 15840] Config: (default) secondary_storage = 
+[2023-05-20T02:19:40.484317 15840] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-05-20T02:19:40.484317 15840] Config: (default) stats = true
+[2023-05-20T02:19:40.484317 15840] Config: (default) stats_log = 
+[2023-05-20T02:19:40.484317 15840] Config: (default) temporary_dir = C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-05-20T02:19:40.484317 15840] Config: (default) umask = 
+[2023-05-20T02:19:40.485318 15840] Command line: C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o __helpers.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IE:\Python\include -I. -IE:\Python\lib\site-packages\nuitka\build\include -IE:\Python\lib\site-packages\nuitka\build\static_src __helpers.c
+[2023-05-20T02:19:40.486319 30276] Hostname: DESKTOP-G6UHQ2L
+[2023-05-20T02:19:40.486319 30276] Working directory: D:/ìåçHëÂ/python/AudioExtractorBuild/AudioExtractorV2.build
+[2023-05-20T02:19:40.486319 30276] Compiler type: gcc
+[2023-05-20T02:19:40.487320 30276] Source file: __loader.c
+[2023-05-20T02:19:40.487320 30276] Object file: __loader.o
+[2023-05-20T02:19:40.487320 30276] Trying direct lookup
+[2023-05-20T02:19:40.488320 30276] No 4bd2bnfsol8uf5blr34fa01miknkclr1o in primary storage
+[2023-05-20T02:19:40.489321 30276] Running preprocessor
+[2023-05-20T02:19:40.492324 15840] Hostname: DESKTOP-G6UHQ2L
+[2023-05-20T02:19:40.492324 15840] Working directory: D:/ìåçHëÂ/python/AudioExtractorBuild/AudioExtractorV2.build
+[2023-05-20T02:19:40.492324 15840] Compiler type: gcc
+[2023-05-20T02:19:40.493325 15840] Source file: __helpers.c
+[2023-05-20T02:19:40.493325 15840] Object file: __helpers.o
+[2023-05-20T02:19:40.493325 15840] Trying direct lookup
+[2023-05-20T02:19:40.494326 15840] Retrieved a7427ebonm9p2612epg6j40843680opme from primary storage (C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/7/427ebonm9p2612epg6j40843680opmeM)
+[2023-05-20T02:19:40.494326 15840] Looking for result key in C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/7/427ebonm9p2612epg6j40843680opmeM
+[2023-05-20T02:19:40.509340 31956] === CCACHE 4.6 STARTED =========================================
+[2023-05-20T02:19:40.509340 31956] Config: (default) absolute_paths_in_stderr = false
+[2023-05-20T02:19:40.509340 31956] Config: (default) base_dir = 
+[2023-05-20T02:19:40.509340 31956] Config: (environment) cache_dir = C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-05-20T02:19:40.509340 31956] Config: (default) compiler = 
+[2023-05-20T02:19:40.509340 31956] Config: (default) compiler_check = mtime
+[2023-05-20T02:19:40.509340 31956] Config: (default) compiler_type = auto
+[2023-05-20T02:19:40.509340 31956] Config: (default) compression = true
+[2023-05-20T02:19:40.509340 31956] Config: (default) compression_level = 0
+[2023-05-20T02:19:40.509340 31956] Config: (default) cpp_extension = 
+[2023-05-20T02:19:40.509340 31956] Config: (default) debug = false
+[2023-05-20T02:19:40.509340 31956] Config: (default) debug_dir = 
+[2023-05-20T02:19:40.509340 31956] Config: (default) depend_mode = false
+[2023-05-20T02:19:40.509340 31956] Config: (default) direct_mode = true
+[2023-05-20T02:19:40.509340 31956] Config: (default) disable = false
+[2023-05-20T02:19:40.509340 31956] Config: (default) extra_files_to_hash = 
+[2023-05-20T02:19:40.509340 31956] Config: (default) file_clone = false
+[2023-05-20T02:19:40.509340 31956] Config: (default) hard_link = false
+[2023-05-20T02:19:40.509340 31956] Config: (default) hash_dir = true
+[2023-05-20T02:19:40.509340 31956] Config: (default) ignore_headers_in_manifest = 
+[2023-05-20T02:19:40.509340 31956] Config: (default) ignore_options = 
+[2023-05-20T02:19:40.509340 31956] Config: (default) inode_cache = false
+[2023-05-20T02:19:40.509340 31956] Config: (default) keep_comments_cpp = false
+[2023-05-20T02:19:40.509340 31956] Config: (default) limit_multiple = 0.8
+[2023-05-20T02:19:40.509340 31956] Config: (environment) log_file = D:\ìåçHëÂ\python\AudioExtractorBuild\AudioExtractorV2.build\ccache-24216.txt
+[2023-05-20T02:19:40.509340 31956] Config: (default) max_files = 0
+[2023-05-20T02:19:40.509340 31956] Config: (default) max_size = 5.0G
+[2023-05-20T02:19:40.509340 31956] Config: (default) namespace = 
+[2023-05-20T02:19:40.509340 31956] Config: (default) path = 
+[2023-05-20T02:19:40.509340 31956] Config: (default) pch_external_checksum = false
+[2023-05-20T02:19:40.509340 31956] Config: (default) prefix_command = 
+[2023-05-20T02:19:40.509340 31956] Config: (default) prefix_command_cpp = 
+[2023-05-20T02:19:40.509340 31956] Config: (default) read_only = false
+[2023-05-20T02:19:40.509340 31956] Config: (default) read_only_direct = false
+[2023-05-20T02:19:40.509340 31956] Config: (default) recache = false
+[2023-05-20T02:19:40.509340 31956] Config: (default) reshare = false
+[2023-05-20T02:19:40.509340 31956] Config: (default) run_second_cpp = true
+[2023-05-20T02:19:40.509340 31956] Config: (default) secondary_storage = 
+[2023-05-20T02:19:40.509340 31956] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-05-20T02:19:40.509340 31956] Config: (default) stats = true
+[2023-05-20T02:19:40.509340 31956] Config: (default) stats_log = 
+[2023-05-20T02:19:40.509340 31956] Config: (default) temporary_dir = C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-05-20T02:19:40.509340 31956] Config: (default) umask = 
+[2023-05-20T02:19:40.509340 31956] Command line: C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o module.__main__.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IE:\Python\include -I. -IE:\Python\lib\site-packages\nuitka\build\include -IE:\Python\lib\site-packages\nuitka\build\static_src module.__main__.c
+[2023-05-20T02:19:40.512342 2856 ] === CCACHE 4.6 STARTED =========================================
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) absolute_paths_in_stderr = false
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) base_dir = 
+[2023-05-20T02:19:40.512342 2856 ] Config: (environment) cache_dir = C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) compiler = 
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) compiler_check = mtime
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) compiler_type = auto
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) compression = true
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) compression_level = 0
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) cpp_extension = 
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) debug = false
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) debug_dir = 
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) depend_mode = false
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) direct_mode = true
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) disable = false
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) extra_files_to_hash = 
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) file_clone = false
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) hard_link = false
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) hash_dir = true
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) ignore_headers_in_manifest = 
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) ignore_options = 
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) inode_cache = false
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) keep_comments_cpp = false
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) limit_multiple = 0.8
+[2023-05-20T02:19:40.512342 2856 ] Config: (environment) log_file = D:\ìåçHëÂ\python\AudioExtractorBuild\AudioExtractorV2.build\ccache-24216.txt
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) max_files = 0
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) max_size = 5.0G
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) namespace = 
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) path = 
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) pch_external_checksum = false
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) prefix_command = 
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) prefix_command_cpp = 
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) read_only = false
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) read_only_direct = false
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) recache = false
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) reshare = false
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) run_second_cpp = true
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) secondary_storage = 
+[2023-05-20T02:19:40.512342 2856 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) stats = true
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) stats_log = 
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) temporary_dir = C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-05-20T02:19:40.512342 2856 ] Config: (default) umask = 
+[2023-05-20T02:19:40.512342 2856 ] Command line: C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\MainProgram.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IE:\Python\include -I. -IE:\Python\lib\site-packages\nuitka\build\include -IE:\Python\lib\site-packages\nuitka\build\static_src static_src\MainProgram.c
+[2023-05-20T02:19:40.517347 31956] Hostname: DESKTOP-G6UHQ2L
+[2023-05-20T02:19:40.517347 31956] Working directory: D:/ìåçHëÂ/python/AudioExtractorBuild/AudioExtractorV2.build
+[2023-05-20T02:19:40.517347 31956] Compiler type: gcc
+[2023-05-20T02:19:40.518347 31956] Source file: module.__main__.c
+[2023-05-20T02:19:40.518347 31956] Object file: module.__main__.o
+[2023-05-20T02:19:40.518347 31956] Trying direct lookup
+[2023-05-20T02:19:40.519349 31956] No 8ee5cutotkceo6bfslk8bvp6ra22ubqh6 in primary storage
+[2023-05-20T02:19:40.520350 2856 ] Hostname: DESKTOP-G6UHQ2L
+[2023-05-20T02:19:40.520350 2856 ] Working directory: D:/ìåçHëÂ/python/AudioExtractorBuild/AudioExtractorV2.build
+[2023-05-20T02:19:40.520350 2856 ] Compiler type: gcc
+[2023-05-20T02:19:40.520350 2856 ] Source file: static_src\MainProgram.c
+[2023-05-20T02:19:40.520350 2856 ] Object file: static_src\MainProgram.o
+[2023-05-20T02:19:40.521350 2856 ] Trying direct lookup
+[2023-05-20T02:19:40.521350 31956] Running preprocessor
+[2023-05-20T02:19:40.521350 2856 ] Retrieved 37d1hp0am6rnlbl1bvlc65of1ricpnguu from primary storage (C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/7/d1hp0am6rnlbl1bvlc65of1ricpnguuM)
+[2023-05-20T02:19:40.521350 2856 ] Looking for result key in C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/7/d1hp0am6rnlbl1bvlc65of1ricpnguuM
+[2023-05-20T02:19:40.594418 3336 ] Got result key from manifest
+[2023-05-20T02:19:40.594418 3336 ] Retrieved b1225kgtf0tos6qrekne7mcrggkru66q8 from primary storage (C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/1/225kgtf0tos6qrekne7mcrggkru66q8R)
+[2023-05-20T02:19:40.595418 3336 ] Reading embedded entry #0 .o (14211 bytes)
+[2023-05-20T02:19:40.595418 3336 ] Writing to __constants.o
+[2023-05-20T02:19:40.596419 3336 ] Succeeded getting cached result
+[2023-05-20T02:19:40.596419 3336 ] Result: direct_cache_hit
+[2023-05-20T02:19:40.596419 3336 ] Result: primary_storage_hit
+[2023-05-20T02:19:40.597420 3336 ] Acquired lock C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/8/stats.lock
+[2023-05-20T02:19:40.599422 3336 ] Releasing lock C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/8/stats.lock
+[2023-05-20T02:19:40.600423 15840] Got result key from manifest
+[2023-05-20T02:19:40.600423 15840] Retrieved 6924f6k3pfdadc15bntcts0fll0961j4m from primary storage (C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/9/24f6k3pfdadc15bntcts0fll0961j4mR)
+[2023-05-20T02:19:40.601423 15840] Reading embedded entry #0 .o (2647 bytes)
+[2023-05-20T02:19:40.601423 15840] Writing to __helpers.o
+[2023-05-20T02:19:40.602424 15840] Succeeded getting cached result
+[2023-05-20T02:19:40.602424 15840] Result: direct_cache_hit
+[2023-05-20T02:19:40.602424 15840] Result: primary_storage_hit
+[2023-05-20T02:19:40.604426 15840] Acquired lock C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/0/stats.lock
+[2023-05-20T02:19:40.605427 15840] Releasing lock C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/0/stats.lock
+[2023-05-20T02:19:40.622442 2856 ] Got result key from manifest
+[2023-05-20T02:19:40.622442 2856 ] Retrieved 6ce0tnk0ac2m38nbcq0dmdulnsflbuem4 from primary storage (C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/c/e0tnk0ac2m38nbcq0dmdulnsflbuem4R)
+[2023-05-20T02:19:40.622442 2856 ] Reading embedded entry #0 .o (47345 bytes)
+[2023-05-20T02:19:40.622442 2856 ] Writing to static_src\MainProgram.o
+[2023-05-20T02:19:40.623443 2856 ] Succeeded getting cached result
+[2023-05-20T02:19:40.623443 2856 ] Result: direct_cache_hit
+[2023-05-20T02:19:40.623443 2856 ] Result: primary_storage_hit
+[2023-05-20T02:19:40.626446 2856 ] Acquired lock C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/8/stats.lock
+[2023-05-20T02:19:40.629449 2856 ] Releasing lock C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/8/stats.lock
+[2023-05-20T02:19:40.706518 23916] === CCACHE 4.6 STARTED =========================================
+[2023-05-20T02:19:40.706518 23916] Config: (default) absolute_paths_in_stderr = false
+[2023-05-20T02:19:40.706518 23916] Config: (default) base_dir = 
+[2023-05-20T02:19:40.706518 23916] Config: (environment) cache_dir = C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-05-20T02:19:40.706518 23916] Config: (default) compiler = 
+[2023-05-20T02:19:40.706518 23916] Config: (default) compiler_check = mtime
+[2023-05-20T02:19:40.706518 23916] Config: (default) compiler_type = auto
+[2023-05-20T02:19:40.706518 23916] Config: (default) compression = true
+[2023-05-20T02:19:40.706518 23916] Config: (default) compression_level = 0
+[2023-05-20T02:19:40.706518 23916] Config: (default) cpp_extension = 
+[2023-05-20T02:19:40.706518 23916] Config: (default) debug = false
+[2023-05-20T02:19:40.706518 23916] Config: (default) debug_dir = 
+[2023-05-20T02:19:40.706518 23916] Config: (default) depend_mode = false
+[2023-05-20T02:19:40.706518 23916] Config: (default) direct_mode = true
+[2023-05-20T02:19:40.706518 23916] Config: (default) disable = false
+[2023-05-20T02:19:40.706518 23916] Config: (default) extra_files_to_hash = 
+[2023-05-20T02:19:40.706518 23916] Config: (default) file_clone = false
+[2023-05-20T02:19:40.706518 23916] Config: (default) hard_link = false
+[2023-05-20T02:19:40.706518 23916] Config: (default) hash_dir = true
+[2023-05-20T02:19:40.706518 23916] Config: (default) ignore_headers_in_manifest = 
+[2023-05-20T02:19:40.706518 23916] Config: (default) ignore_options = 
+[2023-05-20T02:19:40.706518 23916] Config: (default) inode_cache = false
+[2023-05-20T02:19:40.706518 23916] Config: (default) keep_comments_cpp = false
+[2023-05-20T02:19:40.706518 23916] Config: (default) limit_multiple = 0.8
+[2023-05-20T02:19:40.706518 23916] Config: (environment) log_file = D:\ìåçHëÂ\python\AudioExtractorBuild\AudioExtractorV2.build\ccache-24216.txt
+[2023-05-20T02:19:40.706518 23916] Config: (default) max_files = 0
+[2023-05-20T02:19:40.706518 23916] Config: (default) max_size = 5.0G
+[2023-05-20T02:19:40.706518 23916] Config: (default) namespace = 
+[2023-05-20T02:19:40.706518 23916] Config: (default) path = 
+[2023-05-20T02:19:40.706518 23916] Config: (default) pch_external_checksum = false
+[2023-05-20T02:19:40.706518 23916] Config: (default) prefix_command = 
+[2023-05-20T02:19:40.706518 23916] Config: (default) prefix_command_cpp = 
+[2023-05-20T02:19:40.706518 23916] Config: (default) read_only = false
+[2023-05-20T02:19:40.706518 23916] Config: (default) read_only_direct = false
+[2023-05-20T02:19:40.706518 23916] Config: (default) recache = false
+[2023-05-20T02:19:40.706518 23916] Config: (default) reshare = false
+[2023-05-20T02:19:40.706518 23916] Config: (default) run_second_cpp = true
+[2023-05-20T02:19:40.706518 23916] Config: (default) secondary_storage = 
+[2023-05-20T02:19:40.706518 23916] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-05-20T02:19:40.706518 23916] Config: (default) stats = true
+[2023-05-20T02:19:40.706518 23916] Config: (default) stats_log = 
+[2023-05-20T02:19:40.706518 23916] Config: (default) temporary_dir = C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-05-20T02:19:40.706518 23916] Config: (default) umask = 
+[2023-05-20T02:19:40.706518 23916] Command line: C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\CompiledFunctionType.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IE:\Python\include -I. -IE:\Python\lib\site-packages\nuitka\build\include -IE:\Python\lib\site-packages\nuitka\build\static_src static_src\CompiledFunctionType.c
+[2023-05-20T02:19:40.711523 23916] Hostname: DESKTOP-G6UHQ2L
+[2023-05-20T02:19:40.711523 23916] Working directory: D:/ìåçHëÂ/python/AudioExtractorBuild/AudioExtractorV2.build
+[2023-05-20T02:19:40.711523 23916] Compiler type: gcc
+[2023-05-20T02:19:40.711523 23916] Source file: static_src\CompiledFunctionType.c
+[2023-05-20T02:19:40.711523 23916] Object file: static_src\CompiledFunctionType.o
+[2023-05-20T02:19:40.711523 23916] Trying direct lookup
+[2023-05-20T02:19:40.712524 23916] Retrieved 444dspac6502dqatt3bm110m1p4fnkrbg from primary storage (C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/4/4dspac6502dqatt3bm110m1p4fnkrbgM)
+[2023-05-20T02:19:40.712524 23916] Looking for result key in C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/4/4dspac6502dqatt3bm110m1p4fnkrbgM
+[2023-05-20T02:19:40.796601 23916] Got result key from manifest
+[2023-05-20T02:19:40.796601 23916] Retrieved b281j2br8dc305dvlpjksnahp63vij8ne from primary storage (C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/2/81j2br8dc305dvlpjksnahp63vij8neR)
+[2023-05-20T02:19:40.797602 23916] Reading embedded entry #0 .o (3488304 bytes)
+[2023-05-20T02:19:40.797602 23916] Writing to static_src\CompiledFunctionType.o
+[2023-05-20T02:19:40.811614 23916] Succeeded getting cached result
+[2023-05-20T02:19:40.811614 23916] Result: direct_cache_hit
+[2023-05-20T02:19:40.811614 23916] Result: primary_storage_hit
+[2023-05-20T02:19:40.812615 23916] Acquired lock C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/c/stats.lock
+[2023-05-20T02:19:40.814617 23916] Releasing lock C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/c/stats.lock
+[2023-05-20T02:19:41.675399 30276] Got result key from preprocessor
+[2023-05-20T02:19:41.675399 30276] No efd2mu0hodhhel8vsnjic3245jo0266s4 in primary storage
+[2023-05-20T02:19:41.675399 30276] Running real compiler
+[2023-05-20T02:19:42.350013 31956] Got result key from preprocessor
+[2023-05-20T02:19:42.350013 31956] No 450155t0k6ivactuci98vdupmos47rnim in primary storage
+[2023-05-20T02:19:42.350013 31956] Running real compiler
+[2023-05-20T02:19:42.774399 30276] Using default compression level 1
+[2023-05-20T02:19:42.774399 30276] Storing embedded entry #0 .o (9419 bytes) from __loader.o
+[2023-05-20T02:19:42.775400 30276] Stored efd2mu0hodhhel8vsnjic3245jo0266s4 in primary storage (C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/f/d2mu0hodhhel8vsnjic3245jo0266s4R)
+[2023-05-20T02:19:42.775400 30276] Adding result key to C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/b/d2bnfsol8uf5blr34fa01miknkclr1oM
+[2023-05-20T02:19:42.784408 30276] Using default compression level 1
+[2023-05-20T02:19:42.785409 30276] Stored 4bd2bnfsol8uf5blr34fa01miknkclr1o in primary storage (C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/b/d2bnfsol8uf5blr34fa01miknkclr1oM)
+[2023-05-20T02:19:42.786410 30276] Result: cache_miss
+[2023-05-20T02:19:42.786410 30276] Result: direct_cache_miss
+[2023-05-20T02:19:42.786410 30276] Result: preprocessed_cache_miss
+[2023-05-20T02:19:42.786410 30276] Result: primary_storage_miss
+[2023-05-20T02:19:42.786410 30276] Acquired lock C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2023-05-20T02:19:42.787411 30276] Releasing lock C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2023-05-20T02:19:42.787411 30276] Acquired lock C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2023-05-20T02:19:42.788412 30276] Releasing lock C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2023-05-20T02:19:42.788412 30276] Unlink C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.CDwXgi
+[2023-05-20T02:19:42.789413 30276] Unlink C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.eywDRC
+[2023-05-20T02:19:42.789413 30276] Unlink C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.8SLVaG
+[2023-05-20T02:19:42.789413 30276] Unlink C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.R5vcf1.i
+[2023-05-20T02:19:42.789413 30276] Unlink C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.R5vcf1
+[2023-05-20T02:19:44.344827 31956] Using default compression level 1
+[2023-05-20T02:19:44.345828 31956] Storing embedded entry #0 .o (182137 bytes) from module.__main__.o
+[2023-05-20T02:19:44.346829 31956] Stored 450155t0k6ivactuci98vdupmos47rnim in primary storage (C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/5/0155t0k6ivactuci98vdupmos47rnimR)
+[2023-05-20T02:19:44.346829 31956] Adding result key to C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/e/e5cutotkceo6bfslk8bvp6ra22ubqh6M
+[2023-05-20T02:19:44.370850 31956] Using default compression level 1
+[2023-05-20T02:19:44.371851 31956] Stored 8ee5cutotkceo6bfslk8bvp6ra22ubqh6 in primary storage (C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/e/e5cutotkceo6bfslk8bvp6ra22ubqh6M)
+[2023-05-20T02:19:44.371851 31956] Result: cache_miss
+[2023-05-20T02:19:44.371851 31956] Result: direct_cache_miss
+[2023-05-20T02:19:44.371851 31956] Result: preprocessed_cache_miss
+[2023-05-20T02:19:44.371851 31956] Result: primary_storage_miss
+[2023-05-20T02:19:44.372853 31956] Acquired lock C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2023-05-20T02:19:44.374854 31956] Releasing lock C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2023-05-20T02:19:44.374854 31956] Acquired lock C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2023-05-20T02:19:44.375855 31956] Releasing lock C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2023-05-20T02:19:44.375855 31956] Unlink C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.1oZiGF
+[2023-05-20T02:19:44.376856 31956] Unlink C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.JegpDI
+[2023-05-20T02:19:44.376856 31956] Unlink C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.2Gj4XA
+[2023-05-20T02:19:44.376856 31956] Unlink C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.vBIADP.i
+[2023-05-20T02:19:44.376856 31956] Unlink C:\Users\mami\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.vBIADP
